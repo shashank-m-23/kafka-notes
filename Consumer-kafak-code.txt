@@ -1,5 +1,5 @@
 ____________________________________________________________________
-Step 1: Create Contact class to define url & topic to consume data
+Step 1: Create constants class to define url & topic to consume data
 _____________________________________________________________________
 
 package com.kafkalectures.constants;
@@ -115,7 +115,7 @@ public class KafkaConsumerConfig {
 }
 
 _____________________________________________________________________________________________
-Step 4: Create Config clas to consume messages
+Step 4: Create Config class to consume messages
 _____________________________________________________________________________________________
 
 import org.springframework.boot.SpringApplication;
