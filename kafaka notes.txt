@@ -1,4 +1,4 @@
-Apache Kafka
+ Apache Kafka
 ___________
 
 -> It acts as mediator to exchange messages (Message Broker)
